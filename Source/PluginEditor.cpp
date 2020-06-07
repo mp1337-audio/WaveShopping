@@ -127,6 +127,6 @@ void WaveShoppingAudioProcessorEditor::resized()
     //rangeslider.setBounds(250, 150, 50, 50);
     //driveslider.setBounds(350, 150, 50, 50);
 
-    //powerButton.setBounds(450, 50, 50, 50);
+    //450, 50, 50, 50
     //choiceBox.setBounds(550, 50, 100, 50);
 }
