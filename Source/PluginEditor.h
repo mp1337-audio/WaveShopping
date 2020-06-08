@@ -41,9 +41,7 @@ private:
     std::unique_ptr<AudioProcessorValueTreeState::SliderAttachment> gainAttachment;
     std::unique_ptr<AudioProcessorValueTreeState::SliderAttachment> drywetAttachment;
     std::unique_ptr<AudioProcessorValueTreeState::SliderAttachment> outputAttachment;
-    //std::unique_ptr<AudioProcessorValueTreeState::SliderAttachment> driveAttachment;
-    //std::unique_ptr<AudioProcessorValueTreeState::SliderAttachment> blendAttachment;
-    //std::unique_ptr<AudioProcessorValueTreeState::SliderAttachment> rangeAttachment;
+
 
 
     std::unique_ptr<AudioProcessorValueTreeState::ButtonAttachment> buttonAttachment;
