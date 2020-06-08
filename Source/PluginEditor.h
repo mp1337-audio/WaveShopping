@@ -13,9 +13,7 @@
 #include <JuceHeader.h>
 #include "PluginProcessor.h"
 
-//==============================================================================
-/**
-*/
+
 class WaveShoppingAudioProcessorEditor  : public AudioProcessorEditor
 {
 public:
