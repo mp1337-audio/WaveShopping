@@ -275,7 +275,6 @@ AudioProcessorValueTreeState::ParameterLayout WaveShoppingAudioProcessor::create
     parameters.push_back(std::make_unique<AudioParameterFloat>("DRYWET", "Drywet", 0.05f, 1.0f, 0.05f));
 
     parameters.push_back(std::make_unique<AudioParameterFloat>("GAIN", "Gain", 0.0f, 3000.f, 3000.0f));
-    
 
     parameters.push_back(std::make_unique<AudioParameterFloat>("OUTPUT", "Output", 0.0f, 0.5f, 0.1f));
 
